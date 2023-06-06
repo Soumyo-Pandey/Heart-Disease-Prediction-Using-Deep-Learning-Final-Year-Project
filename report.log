@@ -1,0 +1,146 @@
+2021-03-27 16:24:39,905 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 16:26:36,929 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 16:28:05,691 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 16:34:47,236 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 16:36:48,119 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 16:38:03,798 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 16:40:12,339 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 16:40:38,366 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.04539384116693679, best pos: [0 1 1 ... 1 1 1]
+2021-03-27 16:52:34,128 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 16:54:46,332 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 16:55:05,117 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.046988654781199346, best pos: [1 1 0 ... 0 1 0]
+2021-03-27 17:16:02,073 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 17:33:26,135 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 17:52:41,415 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.23034379684773149, best pos: [0 1 0 0 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 0 0 0 1 1 0 0 1 0 0 1 0 1 0 1 0 0 1
+ 1 0 0 0 0 1 1 1 1 1 0 1 1 1 0 1 1 0 1 0 0 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0
+ 1 1 0 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 1 1 0 0 1 1
+ 1 1 0 0 1 0 0 1 1 1 1 1 0 1 1 1 0 1 1 0 1 1 1 0 1 1 1 0 1 0 1 1 1 0 1 1 0
+ 0 1 0 1 1 1 0 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 1 1 1
+ 1 1 0 1 1 0 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 0 1 1 1 0 1 1 0 1 1 1 0 1 1 0
+ 0 1 0 1 0 1 1 0 1 0 0 1 1 0 1 0 1 0 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 0
+ 1 0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 1 0 1 1 1 0 1 1 1
+ 1 1 0 1 0 0 1 1 0 1 0 0 1 1 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 0 0 1 0 0 1 0 0
+ 1 0 1 1 1 1 1 1 0 1 1 0 0 0 0 0 1 0 1 1 1 0 1 1 1 0 0 0 0 1 1 1 0 0 1 1 1
+ 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 1 1 1 1 0
+ 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 0 0 1 0 0 1 0 1 1 0 1 1 1 0 1 1 1 0 1 1 0 1
+ 0 0 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 0 1 0 1 0 0 1 1
+ 0 1 0 0 0 1 0 1 0 0 0 1 1 1 0 0 0 1 0 1 0 0 1 0 1 1 0 1 0 1 0 1 1 0 1 1 1
+ 1 1 1 1 0 1 1 1 1 0 1 0 1 1 0 1 1 0 1 0 0 0 1 1 0 1 0 0 1 1 0 1 1 0 1 1 0
+ 0 1 0 0 1 1 1 0 0 0 0 1 0 1 1 0 1 0 1 1 1 1 1 1 1 1 0 1 0 0 0 1 1 1 0 0 1
+ 1 0 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 0 0 1 0 1 0 1 0 1 0 1 1 1 0 0 1 1 0
+ 1 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 0 0 1 1 1 1 0 1 0 0 1 1 0 0 0 1 1 0 1 1 1
+ 1 0 0 0 1 0 0 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 0 1 1 1 0 1 1 0 0 0 0 1 0 1 1
+ 1 0 1 1 0 1 0 1 0 1 1 1 1 1 0 0 1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 1 0 0 0 0 0
+ 1 1 1 1 1 1 0 1 1 1 0 1 0 1 1 1 0 1 1 0 1 1 0 1 0 1 1 0 0 1 1 1 0 1 1 1 1
+ 0 1 1 0]
+2021-03-27 17:59:24,865 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-03-27 18:02:34,845 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 10, 'p': 2}
+2021-03-27 18:03:53,945 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.23585063405343093, best pos: [1 1 1 0 1 1 1 1 0 0 0 1 1 1 1 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1
+ 0 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 0 1 0 0 1 0 0 1 0 1 0 1 1 1 1 0 1 0 0
+ 1 1 1 1 0 1 1 1 0 1 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 1 1 1 0 0 1 1 0 1 0 1 1
+ 1 0 1 1 0 0 0 1 0 1 0 0 0 1 0 1 0 0 0 1 0 1 0 0 0 1 1 1 0 0 1 0 1 1 0 1 1
+ 0 1 0 0 1 0 0 1 0 0 0 1 1 0 0 1 0 1 1 1 0 1 0 0 0 1 0 1 0 1 1 1 1 0 1 0 0
+ 1 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 1 1 1 1 1 0 1 0 0 1 0 1 1 1 1 0 1 0 1 0
+ 1 1 1 1 1 0 0 1 1 0 1 1 1 1 0 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 0 1 1 0 1 0 1
+ 0 0 0 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 1 1 0 1 0 1
+ 1 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 1 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1
+ 1 1 1 0 1 1 0 1 0 1 0 1 1 0 0 0 1 1 1 0 1 0 1 1 1 0 1 0 1 1 1 1 0 0 1 1 0
+ 1 0 1 1 0 1 1 1 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 1 0 0 1 0 1 1 1
+ 1 0 1 1 0 1 1 0 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1
+ 0 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 0 0 0 0 1 0 1 1 1 0
+ 1 0 1 1 1 0 0 1 1 1 0 1 1 0 1 0 1 1 1 0 0 1 1 0 0 0 1 0 1 1 1 0 1 1 1 1 1
+ 1 0 1 0 0 1 0 1 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+ 0 0 1 0 0 1 1 1 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 0 1 1 1
+ 0 0 0 1 0 1 0 0 0 0 0 1 1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 0 0 0 1 0 1 0 1 1 1
+ 0 1 0 0 1 1 0 0 1 0 1 1 0 0 0 0 1 1 0 0 0 1 1 1 0 1 0 0 0 1 0 0 1 1 0 1 1
+ 1 0 1 0 0 0 1 1 0 0 1 1 0 0 1 1 0 1 1 1 0 1 1 1 0 0 1 0 1 0 0 0 0 1 0 1 0
+ 1 0 1 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 1 0 1 0 0 1 1 0 1
+ 1 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1
+ 0 1 1 0]
+2021-03-27 18:05:41,461 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 10, 'p': 2}
+2021-03-27 18:07:00,586 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.22995327643636, best pos: [1 0 1 1 1 0 1 1 1 0 0 0 0 1 1 1 1 0 0 0 1 1 1 0 1 1 1 1 0 1 1 1 1 1 0 1 1
+ 0 1 0 0 1 1 1 1 1 1 1 0 1 0 1 0 1 0 0 0 0 1 0 1 1 1 1 1 1 1 0 0 1 1 1 1 0
+ 0 1 1 1 1 0 0 1 1 1 1 0 0 1 0 1 0 1 1 1 0 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 0 1 1 0 1 1 1 1 0 0 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 1 0 0 1 0 0 1 0 1 0 1
+ 0 1 0 1 0 1 1 0 0 1 1 1 1 0 0 1 0 0 1 1 0 1 1 1 1 1 0 0 1 0 1 1 1 1 1 0 0
+ 1 0 1 1 1 0 1 1 1 1 0 0 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 1 0 1 0 1 0 1 1
+ 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 1 0 1 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 0 1 0 0
+ 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 1 1 1 0 0 1 1 1 0 1 1 0 1 1 0 0 1 1 1 0 1
+ 0 0 0 1 1 0 0 1 0 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 0 1
+ 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 1 0 0 1
+ 1 1 0 1 1 1 0 0 1 1 1 0 1 0 1 1 1 1 0 0 1 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 1
+ 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 1 1 0 1 1 0 1 0 0 1 1 0 1 1 1 0 1 1 0 1 1
+ 1 1 1 0 1 1 1 0 1 0 1 0 0 0 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 0 1 1 1 1 0 1
+ 1 0 0 1 0 1 0 1 1 0 0 0 0 1 1 1 0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 1 1 0 1 0 0
+ 0 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 0 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 0
+ 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 1 0 0 1 0 0 0 1 1 1 0 0
+ 0 1 0 1 0 1 1 1 0 0 0 1 0 1 1 0 1 0 0 0 1 1 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1
+ 1 1 1 0 0 1 1 1 1 1 1 0 1 1 1 0 0 1 0 1 0 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 1
+ 0 1 1 0 0 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 1 1 0 1 1 0 1 1 0 1 1 1 1 1
+ 0 0 1 0 0 0 1 0 1 0 1 1 1 1 0 1 1 0 0 0 0 0 1 1 0 1 1 0 0 1 1 1 0 1 0 1 1
+ 0 1 1 1 0 1 0 1 1 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 0 0 1 1 1
+ 1 0 0 1]
+2021-03-27 18:07:05,433 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-03-27 18:08:41,138 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 10, 'p': 2}
+2021-03-27 18:09:59,885 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.2364887064216421, best pos: [0 1 0 0 1 1 0 1 0 1 1 1 0 1 1 0 1 1 0 1 0 1 1 1 0 1 1 0 1 0 0 1 1 1 1 0 1
+ 1 1 0 0 0 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1
+ 1 1 1 0 0 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 1 0 0 0 1 1 1 0
+ 1 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 1 0 1 1 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0 1 1
+ 0 1 1 1 0 1 1 0 1 1 1 0 1 1 1 0 0 0 1 0 1 0 1 1 1 1 1 1 0 1 0 1 1 0 0 0 0
+ 1 1 1 0 0 0 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 0 0 1 1 0 1 1 1 0 1 0 1
+ 1 0 1 1 0 0 1 1 0 1 0 1 1 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 1 0 1
+ 1 1 1 0 1 0 1 1 1 0 1 0 0 0 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 1 1 1 0 1 1 1
+ 0 1 0 1 0 1 1 1 1 0 1 1 0 0 1 1 1 0 1 1 0 0 0 1 1 1 0 1 1 1 1 1 0 1 0 1 0
+ 0 0 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 1 0 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0
+ 1 1 1 1 1 1 1 1 0 1 1 0 0 0 1 0 0 1 0 1 0 1 0 1 0 1 1 1 1 0 1 1 0 1 0 0 1
+ 0 0 1 0 0 1 1 1 0 1 0 1 1 1 0 0 1 0 1 0 0 0 1 1 1 1 0 0 0 1 0 1 0 0 1 1 1
+ 0 1 1 1 0 0 0 0 1 0 1 0 0 0 1 1 1 1 1 1 1 0 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1
+ 0 0 1 0 1 1 0 0 1 1 1 1 0 0 0 1 1 1 0 0 1 1 1 1 1 1 0 1 1 1 1 0 0 0 1 1 1
+ 1 1 0 0 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 1 0 1 1 1 0 1 1 1 1 1 1 1 0 0
+ 1 0 0 0 1 1 1 1 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 1 1 1 0 1 0 0 0 1 0 1 0 0 1
+ 1 1 1 1 0 1 0 1 0 1 0 0 1 0 0 1 0 1 0 1 0 0 1 0 0 1 0 0 0 1 1 0 1 1 1 1 1
+ 0 1 1 1 1 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 0 1 1 0 1 1 0
+ 1 1 1 0 1 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 0 0 0 0 1 1
+ 1 0 1 0 1 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 1 1 1 1 1 0 1 1 0 1 1 0 1 0 0 1 0
+ 1 1 1 1 1 0 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 1 0 0
+ 1 1 1 1]
+2021-03-27 18:10:02,864 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-03-27 18:25:51,712 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 10, 'p': 2}
+2021-03-27 18:27:13,149 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.10307988071256735, best pos: [1 1 1 ... 1 0 1]
+2021-03-27 18:27:15,966 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-03-27 18:34:54,716 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2021-03-27 18:35:44,806 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.15337033668843533, best pos: [0 1 1 ... 0 0 1]
+2021-03-27 18:35:47,686 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-03-27 19:06:14,193 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-03-27 19:15:09,491 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-03-27 19:15:10,941 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-03-27 19:48:32,339 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2021-03-27 19:49:58,578 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2021-03-27 19:50:45,817 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.16192054139198414, best pos: [0 0 0 ... 1 1 1]
+2021-03-27 19:50:46,781 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-03-27 19:50:48,533 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-03-27 20:37:25,426 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2021-03-27 20:38:12,620 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1433012419482699, best pos: [0 1 0 ... 1 1 1]
+2021-03-27 20:38:13,254 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-03-27 20:38:14,990 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-03-27 20:55:13,830 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2021-03-27 20:55:48,299 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.12818827922044496, best pos: [1 0 1 ... 1 0 1]
+2021-03-27 20:55:49,134 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-03-27 20:55:51,156 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+

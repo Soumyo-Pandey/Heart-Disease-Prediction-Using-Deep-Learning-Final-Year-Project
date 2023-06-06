@@ -1,0 +1,3 @@
+pip install pycryptodome
+pip install pyaes
+pip install pbkdf2
